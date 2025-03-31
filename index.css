@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+    background-color: yellow;
+    padding: 20px;
+    width:70%;
+    margin: 20px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: wheat;
+    font-size: 50px;
+}
+hr{
+    width: 50%;
+}
+.btn{
+    padding: 15px;
+    line-height: 1.2em;
+    font-weight: bold;
+}
+.btn:hover{
+    background: green;
+    color: blue;
+    transition: 300ms;
+    box-shadow: 0px 0px 0px 2px white, 0px 0px 0px 4px black;
+}
+a{
+    font-size: 90px;
+}
+p{
+    color: aliceblue;
+}
